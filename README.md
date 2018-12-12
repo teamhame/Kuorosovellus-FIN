@@ -1,0 +1,2 @@
+# Kuorosovellus-FIN
+Finnished version
